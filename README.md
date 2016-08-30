@@ -19,3 +19,6 @@ CERTIFICATIONS
 
 VirusTotal:
 https://www.virustotal.com/en/file/e0512f78b6bd4a99d0577b6f5153ac345f938df1ecb583891184c9d67a9de73f/analysis/1472516509/
+
+
+**All rights reserved to the original creators. This is a rework of the original. I take no credit in this whatsoever.**
