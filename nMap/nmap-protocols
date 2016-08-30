@@ -44,7 +44,7 @@ xtp              36  # XTP
 ddp              37  # Datagram Delivery Protocol
 idpr-cmtp        38  # IDPR Control Message Transport Proto
 tp++             39  # TP+
-il               40  # IL Transport Protocol
+il               40  # IL Transport Protocol 2
 ipv6             41  # Ipv6
 sdrp             42  # Source Demand Routing Protocol
 ipv6-route       43  # Routing Header for IPv6
